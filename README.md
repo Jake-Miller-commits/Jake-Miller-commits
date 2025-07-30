@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jacob Miller</h1>
-<h3 align="center">A passionate systems and software engineer with 12+ years of experience and a passion for automation and DevOps projects!</h3>
+<h3 align="center">Cloud-Native DevOps Engineer | Automation & Security Advocate</h3>
+
+## 🔍 About Me  
+Results-driven **DevOps Engineer** with 12+ years of experience designing, deploying, and securing scalable cloud-native systems across AWS and hybrid environments. Proven track record in leading large-scale migrations, optimizing CI/CD pipelines (**70% faster deployments**), and implementing **Infrastructure as Code** (IaC) for repeatability and compliance. Adept at bridging technical and business needs through automation, security-first practices, and Agile/Scrum methodologies. Passionate about continuous learning, system resilience, and empowering engineering teams through the latest in AI and LLM tooling and best practices culture. Outside work, I enjoy optimizing my homelab and trying new self hosted applications (e.g., running LLMs and media servers with Docker/Kubernetes).
+> *"One process at a time."* — My mantra for iterative improvement.
+
+---
+
+## 🛠️ Core Competencies
+
+| **Cloud & DevOps**       | AWS, Azure, Kubernetes, Docker, ECS, CDK, Terraform, Packer |
+|---------------------------|-------------------------------------------------------------|
+| **CI/CD & Automation**    | GitLab CI, Bitbucket Pipelines, AWS CodePipeline, Jenkins, Ansible |
+| **Infrastructure as Code**| Terraform, AWS CDK, Packer, Ansible, YAML/JSON templating |
+| **Monitoring & Logging**  | Datadog, Grafana, CloudWatch, SumoLogic, Honeycomb, Jira Alerting |
+| **Security & Compliance** | IAM, VPC, WAF, DLP, Pen Testing, Vulnerability Scanning, SOC 2 |
+| **Leadership & Culture**  | Agile/Scrum, Tech Mentorship, Cross-Functional Collaboration, Onboarding |
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
