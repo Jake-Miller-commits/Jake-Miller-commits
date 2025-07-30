@@ -34,7 +34,8 @@ Results-driven **DevOps Engineer** with 12+ years of experience designing, deplo
 Strong passion for building and maintaining personal infrastructure for experimentation and continued learning:
 - Networking (VLANs, firewalls, routing)
 - Virtualization (VMware, Proxmox, KVM)
-- Media servers (Plex, Jellyfin) and LLM deployment
+- Media servers (Plex, Jellyfin)
+- Large language model fine tuning and deployment
 - Security hardening and monitoring
 ---
 
