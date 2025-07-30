@@ -31,7 +31,7 @@ Results-driven **DevOps Engineer** with 12+ years of experience designing, deplo
 ## 🎯 Specialized Expertise
 
 ### 🛠️ Homelab & Self-Hosting
-High passion for building and maintaining personal infrastructure for experimentation:
+Strong passion for building and maintaining personal infrastructure for experimentation and continued learning:
 - Networking (VLANs, firewalls, routing)
 - Virtualization (VMware, Proxmox, KVM)
 - Media servers (Plex, Jellyfin) and LLM deployment
