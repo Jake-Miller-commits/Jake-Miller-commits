@@ -46,7 +46,7 @@ Strong passion for building and maintaining personal infrastructure for experime
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/millercommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millercommits" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jmiller317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmiller317" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jdevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdevops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
