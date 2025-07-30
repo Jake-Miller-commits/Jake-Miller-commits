@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Miller</h1>
-<h3 align="center">A passionate systems and software engineer with 8 years of experience and a passion for automation and DevOps projects!</h3>
+<h3 align="center">A passionate systems and software engineer with 12+ years of experience and a passion for automation and DevOps projects!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
