@@ -2,10 +2,8 @@
 <h3 align="center">Cloud-Native DevOps Engineer | Automation & Security Advocate</h3>
 
 ## 🔍 About Me  
-Results-driven **DevOps Engineer** with 12+ years of experience designing, deploying, and securing scalable cloud-native systems across AWS and hybrid environments. Proven track record in leading large-scale migrations, optimizing CI/CD pipelines (**70% faster deployments**), and implementing **Infrastructure as Code** (IaC) for repeatability and compliance. Adept at bridging technical and business needs through automation, security-first practices, and Agile/Scrum methodologies. Passionate about continuous learning, system resilience, and empowering engineering teams through the latest in AI and LLM tooling and best practices culture. Outside work, I enjoy optimizing my homelab and trying new self hosted applications (e.g., running LLMs and media servers with Docker/Kubernetes).
+Results-driven **DevOps Engineer** with 12+ years of experience designing, deploying, and securing scalable cloud-native systems across AWS and hybrid environments. Proven track record in leading large-scale migrations, optimizing CI/CD pipelines (**70% faster deployments**), and implementing **Infrastructure as Code** (IaC) for repeatability and compliance. Adept at bridging technical and business needs through automation, security-first practices, and Agile/Scrum methodologies. Passionate about continuous learning, system resilience, and empowering engineering teams through the latest in AI and LLM tooling and best practices culture. Outside of work, I enjoy optimizing my homelab and trying new self hosted applications (e.g., running LLMs and media servers with Docker/Kubernetes).
 > *"One process at a time."* — My mantra for iterative improvement.
-
----
 
 ## 🛠️ Core Competencies
 
@@ -19,6 +17,34 @@ Results-driven **DevOps Engineer** with 12+ years of experience designing, deplo
 
 ---
 
+## 🌐 Technical Skills
+
+**Languages**: Python, Bash, YAML, JSON, Terraform HCL, SQL, JavaScript, HTML, CSS  
+**Cloud Platforms**: AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudFront), Azure  
+**DevOps Tools**: Docker, Kubernetes, Jenkins, Ansible, Packer, Vault, Prometheus, Grafana  
+**Monitoring**: Datadog, CloudWatch, SumoLogic, Honeycomb, Sentry  
+**Security**: WAF, DLP, SIEM, Pen Testing, SOC 2, PCI DSS  
+**Databases**: MySQL, MongoDB, AWS RDS  
+
+---
+
+## 🎯 Specialized Expertise
+
+### 🛠️ Homelab & Self-Hosting
+Expert in building and maintaining personal infrastructure for experimentation:
+- Networking (VLANs, firewalls, routing)
+- Virtualization (VMware, Proxmox, KVM)
+- Media servers (Plex, Jellyfin) and LLM deployment
+- Security hardening and monitoring
+---
+
+## 🎮 Hobbies & Interests
+
+- **🏠 Homelab**: Building virtual networks, testing cloud configurations, exploring security tools  
+- **🚗 Vehicle Projects**: Customizing and maintaining my vehicles with performance upgrades  
+- **🎮 Gaming Tech**: Game server administration, modding, and VR/AR integration
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/millercommits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millercommits" height="30" width="40" /></a>
