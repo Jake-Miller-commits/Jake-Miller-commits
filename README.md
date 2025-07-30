@@ -20,10 +20,7 @@ Results-driven **DevOps Engineer** with 12+ years of experience designing, deplo
 ## 🌐 Technical Skills
 
 **Languages**: Python, Bash, YAML, JSON, Terraform HCL, SQL, JavaScript, HTML, CSS  
-**Cloud Platforms**: AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudFront), Azure  
 **DevOps Tools**: Docker, Kubernetes, Jenkins, Ansible, Packer, Vault, Prometheus, Grafana  
-**Monitoring**: Datadog, CloudWatch, SumoLogic, Honeycomb, Sentry  
-**Security**: WAF, FIM, SIEM, Pen Testing, SOC 2, PCI DSS  
 **Databases**: MySQL, MongoDB, AWS RDS  
 
 ---
