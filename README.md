@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob Miller</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">Cloud-Native DevOps Engineer | Automation & Security Advocate</h3>
 
 ## 🔍 About Me  
