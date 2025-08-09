@@ -39,7 +39,7 @@ Strong passion for building and maintaining personal infrastructure for experime
 ## 🎮 Hobbies & Interests
 
 - **🏠 Homelab**: Building virtual networks, testing cloud configurations, exploring security tools  
-- **🚗 Vehicle Projects**: Customizing and maintaining my vehicles with performance upgrades  
+- **🚗 Vehicle Projects**: Customizing and maintaining my vehicles for performance and reliability   
 - **🎮 Gaming Tech**: Game server administration, modding, and VR/AR integration
 
 ---
