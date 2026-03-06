@@ -9,7 +9,7 @@ Results-driven **DevOps Engineer** with 12+ years of experience designing, deplo
 
 | **Cloud & DevOps**       | AWS, Azure, Kubernetes, Docker, ECS, CDK, Terraform, Packer |
 |---------------------------|-------------------------------------------------------------|
-| **CI/CD & Automation**    | GitLab CI, Bitbucket Pipelines, AWS CodePipeline, Jenkins, Ansible |
+| **CI/CD & Automation**    | GitLab CI, Bitbucket Pipelines, AWS CodePipeline, Jenkins |
 | **Infrastructure as Code**| Terraform, AWS CDK, Packer, Ansible, YAML/JSON templating |
 | **Monitoring & Logging**  | Datadog, Grafana, CloudWatch, SumoLogic, Honeycomb, Jira Alerting |
 | **Security & Compliance** | IAM, VPC, WAF, DLP, Pen Testing, Vulnerability Scanning, SOC 2 |
